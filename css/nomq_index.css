@@ -21,9 +21,15 @@
 		width: 100%;
 	}
 
+	#pu446
+	{
+		width: 100%;
+	}
+
 	#u446
 	{
 		width: 1200px;
+		position: relative;
 		margin-right: -10000px;
 	}
 
@@ -1062,6 +1068,13 @@
 		z-index: 123;
 	}
 
+	#u2190
+	{
+		width: 364px;
+		top: 26px;
+		left: -240px;
+	}
+
 	#u2190popup
 	{
 		z-index: 127;
@@ -1070,6 +1083,8 @@
 	#u2196
 	{
 		z-index: 128;
+		width: 320px;
+		height: 353px;
 	}
 
 	#menuu4559
@@ -1077,6 +1092,12 @@
 		z-index: 129;
 		margin-top: 35px;
 		left: 6.25%;
+	}
+
+	#u2186
+	{
+		top: 316px;
+		left: -78px;
 	}
 
 	#u2187-4

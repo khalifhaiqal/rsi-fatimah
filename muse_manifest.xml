@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://rsifatimahbanyuwangi.com" resolutions="1x" timestamp="1624334802909">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://rsifatimahbanyuwangi.com" resolutions="1x" timestamp="1624336081411">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="igd-24-jam.css" crc="358256340" ref="igd-24-jam"/>
@@ -12,8 +12,8 @@
     <file name="sp-anak.css" crc="358256340" ref="sp-anak"/>
     <file name="layanan-vaksin.css" crc="358256340" ref="layanan-vaksin"/>
     <file name="rawat-jalan.css" crc="358256340" ref="rawat-jalan"/>
-    <file name="index.css" crc="377860219" ref="index"/>
-    <file name="nomq_index.css" crc="511988515" ref="index"/>
+    <file name="index.css" crc="54471386" ref="index"/>
+    <file name="nomq_index.css" crc="212206963" ref="index"/>
     <file name="rawat-inap.css" crc="358256340" ref="rawat-inap"/>
     <file name="infografis.css" crc="358256340" ref="infografis"/>
     <file name="berita.css" crc="358256340" ref="berita"/>
@@ -64,8 +64,11 @@
     <file name="cactus660x441.jpg" crc="4229368501" seo="true" ref="index"/>
     <file name="road660x441.jpg" crc="4130320488" seo="true" ref="index"/>
     <file name="trees660x441.jpg" crc="522400696" seo="true" ref="index"/>
+    <file name="cactus320x214.jpg" crc="3758566337" seo="true" ref="index"/>
+    <file name="road320x214.jpg" crc="53076771" seo="true" ref="index"/>
+    <file name="trees320x214.jpg" crc="139282824" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4235661459" seo="true" mt="1624247893712" redirect="true"/>
+  <file name="index.html" crc="527719576" seo="true" mt="1624336054150" redirect="true"/>
   <file name="jadwal-dokter.html" crc="3948916515" seo="true" mt="1624070251220" redirect="false"/>
   <file name="sp-anak.html" crc="166812228" seo="true" mt="1624067354279" redirect="false"/>
   <file name="sp-saraf.html" crc="28749530" seo="true" mt="1624067359780" redirect="false"/>

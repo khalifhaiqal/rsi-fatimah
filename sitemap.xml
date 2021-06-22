@@ -79,8 +79,26 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://rsifatimahbanyuwangi.com/images/cactus320x214.jpg</loc>
+    <lastmod>2021-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rsifatimahbanyuwangi.com/images/road320x214.jpg</loc>
+    <lastmod>2021-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rsifatimahbanyuwangi.com/images/trees320x214.jpg</loc>
+    <lastmod>2021-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://rsifatimahbanyuwangi.com/index.html</loc>
-    <lastmod>2021-06-21</lastmod>
+    <lastmod>2021-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
