@@ -1,0 +1,83 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://rsifatimahbanyuwangi.com" resolutions="1x" timestamp="1624334802909">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="igd-24-jam.css" crc="358256340" ref="igd-24-jam"/>
+    <file name="paket-bersalin.css" crc="358256340" ref="paket-bersalin"/>
+    <file name="layanan-kami.css" crc="358256340" ref="layanan-kami"/>
+    <file name="tentang-kami.css" crc="358256340" ref="tentang-kami"/>
+    <file name="medical-check-up.css" crc="358256340" ref="medical-check-up"/>
+    <file name="sp-saraf.css" crc="358256340" ref="sp-saraf"/>
+    <file name="screening-covid-19.css" crc="358256340" ref="screening-covid-19"/>
+    <file name="jadwal-dokter.css" crc="358256340" ref="jadwal-dokter"/>
+    <file name="sp-anak.css" crc="358256340" ref="sp-anak"/>
+    <file name="layanan-vaksin.css" crc="358256340" ref="layanan-vaksin"/>
+    <file name="rawat-jalan.css" crc="358256340" ref="rawat-jalan"/>
+    <file name="index.css" crc="377860219" ref="index"/>
+    <file name="nomq_index.css" crc="511988515" ref="index"/>
+    <file name="rawat-inap.css" crc="358256340" ref="rawat-inap"/>
+    <file name="infografis.css" crc="358256340" ref="infografis"/>
+    <file name="berita.css" crc="358256340" ref="berita"/>
+  </folder>
+  <folder name="fonts">
+    <file name="koho-v6-latin-700.woff" crc="297053666"/>
+    <file name="koho-v6-latin-700.eot" crc="4076743633"/>
+    <file name="koho-v6-latin-700.svg" crc="4007793113"/>
+    <file name="koho-v6-latin-500.woff" crc="4232962948"/>
+    <file name="koho-v6-latin-500.eot" crc="405042459"/>
+    <file name="koho-v6-latin-500.svg" crc="371949115"/>
+    <file name="koho-v6-latin-300.woff" crc="85507791"/>
+    <file name="koho-v6-latin-300.eot" crc="4138879751"/>
+    <file name="koho-v6-latin-300.svg" crc="167282099"/>
+    <file name="montserrat-v15-latin-300.woff" crc="3884218014"/>
+    <file name="montserrat-v15-latin-300.eot" crc="4003863165"/>
+    <file name="montserrat-v15-latin-300.svg" crc="253088661"/>
+  </folder>
+  <folder name="assets">
+    <file name="ortopedi-1.jpg" crc="524382011" seo="true" mt="1623895548000"/>
+    <file name="dokter-ortopedi.jpg" crc="55270868" seo="true" mt="1623895558000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:jadwal-dokter:sp-anak:sp-saraf:layanan-kami:berita:infografis:tentang-kami:paket-bersalin:igd-24-jam:rawat-jalan:rawat-inap:medical-check-up:screening-covid-19:layanan-vaksin"/>
+    <file name="museutils.js" crc="3790713428" ref="index:jadwal-dokter:sp-anak:sp-saraf:layanan-kami:berita:infografis:tentang-kami:paket-bersalin:igd-24-jam:rawat-jalan:rawat-inap:medical-check-up:screening-covid-19:layanan-vaksin"/>
+    <file name="whatinput.js" crc="84559013" ref="index:jadwal-dokter:sp-anak:sp-saraf:layanan-kami:berita:infografis:tentang-kami:paket-bersalin:igd-24-jam:rawat-jalan:rawat-inap:medical-check-up:screening-covid-19:layanan-vaksin"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index"/>
+    <file name="webpro.js" crc="329496574" ref="index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:jadwal-dokter:sp-anak:sp-saraf:layanan-kami:berita:infografis:tentang-kami:paket-bersalin:igd-24-jam:rawat-jalan:rawat-inap:medical-check-up:screening-covid-19:layanan-vaksin"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:jadwal-dokter:sp-anak:sp-saraf:layanan-kami:berita:infografis:tentang-kami:paket-bersalin:igd-24-jam:rawat-jalan:rawat-inap:medical-check-up:screening-covid-19:layanan-vaksin"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo rsi fatimah.png" crc="4161415743" seo="true" ref="index"/>
+    <file name="logo teks fatimah u.png" crc="3989897596" seo="true" ref="index"/>
+    <file name="cactus.jpg" crc="292943311" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="road.jpg" crc="499639248" seo="true" ref="index"/>
+    <file name="trees.jpg" crc="446107185" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="cactus301x201.jpg" crc="61430382" seo="true" ref="index"/>
+    <file name="road301x201.jpg" crc="3777763975" seo="true" ref="index"/>
+    <file name="trees301x201.jpg" crc="58782816" seo="true" ref="index"/>
+    <file name="cactus660x441.jpg" crc="4229368501" seo="true" ref="index"/>
+    <file name="road660x441.jpg" crc="4130320488" seo="true" ref="index"/>
+    <file name="trees660x441.jpg" crc="522400696" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4235661459" seo="true" mt="1624247893712" redirect="true"/>
+  <file name="jadwal-dokter.html" crc="3948916515" seo="true" mt="1624070251220" redirect="false"/>
+  <file name="sp-anak.html" crc="166812228" seo="true" mt="1624067354279" redirect="false"/>
+  <file name="sp-saraf.html" crc="28749530" seo="true" mt="1624067359780" redirect="false"/>
+  <file name="layanan-kami.html" crc="360577488" seo="true" mt="1624069290609" redirect="false"/>
+  <file name="berita.html" crc="3865848509" seo="true" mt="1624069559908" redirect="false"/>
+  <file name="infografis.html" crc="76033239" seo="true" mt="1624069875256" redirect="false"/>
+  <file name="tentang-kami.html" crc="3774124699" seo="true" mt="1624069887159" redirect="false"/>
+  <file name="paket-bersalin.html" crc="4067758416" seo="true" mt="1624069931381" redirect="false"/>
+  <file name="igd-24-jam.html" crc="4222311788" seo="true" mt="1624070124981" redirect="false"/>
+  <file name="rawat-jalan.html" crc="474876442" seo="true" mt="1624070159023" redirect="false"/>
+  <file name="rawat-inap.html" crc="4235776898" seo="true" mt="1624070167379" redirect="false"/>
+  <file name="medical-check-up.html" crc="4041401753" seo="true" mt="1624070190809" redirect="false"/>
+  <file name="screening-covid-19.html" crc="4019299037" seo="true" mt="1624070294640" redirect="false"/>
+  <file name="layanan-vaksin.html" crc="491616674" seo="true" mt="1624070312794" redirect="false"/>
+</manifest>
